@@ -1,8 +1,9 @@
 create schema portfolio;
 use portfolio;
 
--- ----------------------------------------------- Feature Engineering --------------------------------------------------------------
+
 -- Importing data from excel (.csv) through import wizard
+
 select * from e_commerce_data;
 describe e_commerce_data;
 
