@@ -1,0 +1,1 @@
+Hi. This is proejct is about a fictional e-commerce company called cartify, with data source from kaggle (https://www.kaggle.com/datasets/endofnight17j03/global-superstore/data). This whole analysis is split into two sections "Sales" and "Market".
