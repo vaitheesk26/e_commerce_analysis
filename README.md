@@ -13,19 +13,28 @@ Following questions are answered in this analysis:
 
 Sales:
 
-1.Key Performance Indicator's (KPI): What are the aggregated figures for the total sales revenue, total profit, total number of orders and the profit margin percentage?
+1. Key Performance Indicator's (KPI): What are the aggregated figures for the total sales revenue, total profit, total number of orders and the profit margin percentage?
+
 2. Shipping Cost: What is the standard shipping cost per item?
+
 3. Product Sub-Category Sales: Which sub-categories are experiencing strong profit, and which ones are lagging behind?
-4.Sales based on Year: Which year recorded the highest total sales along with their profits?
+
+4. Sales based on Year: Which year recorded the highest total sales along with their profits?
+
 5. Sales Trend based on quarterly sales: What is the quarterly sales for each year?
+
 6. Monthly Sales: Which months typically see the highest sales every year, and which month consistently experiences the lowest sales annually?
+
 7. Delivery Frequency: How many days does it take for products to be delivered?
 
 Market:
 
-1.Market Presence: In how many markets, regions and countries does Cartify operate ?
+1. Market Presence: In how many markets, regions and countries does Cartify operate ?
+
 2. Sales and Profit in each market:  What are the total sales and profit in each market?
+
 3. Growth Rate: Which region has the highest growth rate percentage from 2019–2022?
-4.Segment: What are the total sales and total profit within each customer segment for overall market?
+
+4. Segment: What are the total sales and total profit within each customer segment for overall market?
 
 
