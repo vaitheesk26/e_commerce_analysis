@@ -1,4 +1,4 @@
-Hi. This is project is about a fictional e-commerce company called Cartify, with data sourced from Kaggle. For this entire analyis I uses MySQL as the Database Managemnt System and to enhance the presentation of data, Tableau has been utilized.
+Hi. This is project is about a fictional e-commerce company called Cartify, with data sourced from Kaggle. For this entire analysis I used MySQL as the Database Managemnt System and to enhance the presentation of data, Tableau has been utilized.
 
 Dashboard: https://public.tableau.com/app/profile/vaitheeswaran.krishnamoorthy/viz/E_Commerce_Analysis/SalesDashboard. 
 
