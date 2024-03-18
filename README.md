@@ -1,5 +1,9 @@
 Hi. This is project is about a fictional e-commerce company called Cartify, with data sourced from Kaggle. To enhance the presentation of data, Tableau has been utilized for visualization purposes.
-Dashboard: https://public.tableau.com/app/profile/vaitheeswaran.krishnamoorthy/viz/E_Commerce_Analysis/SalesDashboard. Based on the results some business recommendations are made. Please check the complete blog along with insights:https://medium.com/@vaitheesk26/cartify-e-commerce-analysis-389e5e7d3eb5
+
+Dashboard: https://public.tableau.com/app/profile/vaitheeswaran.krishnamoorthy/viz/E_Commerce_Analysis/SalesDashboard. 
+
+Based on the results some business recommendations are made. 
+Please check the complete blog along with insights:https://medium.com/@vaitheesk26/cartify-e-commerce-analysis-389e5e7d3eb5
 
 Overview:
 
